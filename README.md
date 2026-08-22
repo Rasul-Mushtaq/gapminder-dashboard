@@ -24,11 +24,9 @@ An interactive R Shiny dashboard for exploring the relationship between wealth, 
 ## Local Setup
 
 1. Clone the repository:
-
    ```bash
-   git clone [https://github.com/Rasul-Mushtaq/gapminder-dashboard.git](https://github.com/Rasul-Mushtaq/gapminder-dashboard.git)
+   git clone https://github.com/Rasul-Mushtaq/gapminder-dashboard.git
    cd gapminder-dashboard
-   ```
 
 2. Install required packages:
 
